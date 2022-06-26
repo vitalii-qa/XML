@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <person sex="male">
+        <firstname>Vitalii</firstname>
+        <lastname>Antosikov</lastname>
+        <age>32</age>
+        <pets>2</pets>
+        <movies>Joker</movies>
+        <salary>1000</salary>
+    </person>
